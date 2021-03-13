@@ -1,1 +1,23 @@
 # javademo
+
+##building
+run "gradlew" script
+
+##usage
+###parsing file using default parser
+java -jar demo-0.0.1-SNAPSHOT.jar <path to file>
+
+###all supported keys
+
+	demo <file path> -parameter parameterValue
+	
+	Parameters:\n
+	\t-q quick parsing strategy, no parameter value;
+	\t-r reliable parsing strategy, no parameter value;
+	\t(  -q and -r are mutually exclusive)
+	\t-g <number of events> example file generation mode;
+	\tSpare parameters or values are ignored.
+	
+##0.0.1 Release notes
+Unfortunately than I've initially planned is implemeted.
+Ideas that did not fit into few hours I've spent, are described in comments.
