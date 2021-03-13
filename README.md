@@ -1,7 +1,9 @@
 # javademo
 
 ## building
-run "gradlew" script
+It has been developed and tested with Oracle 1.8 JDK
+
+run "gradlew build" script
 
 ## usage
 ### parsing file using default parser
