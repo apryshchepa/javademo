@@ -19,5 +19,5 @@ java -jar demo-0.0.1-SNAPSHOT.jar <path to file>
 	Spare parameters or values are ignored.
 	
 ## 0.0.1 Release notes
-Unfortunately than I've initially planned is implemeted.
-Ideas that did not fit into few hours I've spent, are described in comments.
+Unfortunately, less, than I've initially planned, is implemeted.
+Ideas, that did not fit into few hours, are described in comments.
