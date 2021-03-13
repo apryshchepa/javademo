@@ -5,7 +5,7 @@ run "gradlew" script
 
 ## usage
 ### parsing file using default parser
-java -jar demo-0.0.1-SNAPSHOT.jar <path to file>
+java -jar demo-0.0.1-SNAPSHOT.jar [path to the file]
 
 ### all supported keys
 
