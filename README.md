@@ -1,9 +1,13 @@
 # javademo
 
 ## building
-It has been developed and tested with Oracle 1.8 JDK
+It has been developed and tested with Oracle 1.8 JDK.
+JDK 1.8 or higher is prerequisite. 
+"jdk-8u281" is recommended https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 
-run "gradlew build" script
+run "gradlew build" script to build the application.
+
+run "gradlew test" for unit tests. Test results can be found in "\build\test-results\" folder.
 
 ## usage
 ### parsing file using default parser
